@@ -1,0 +1,39 @@
+
+*{
+    background-color:grey;
+}
+
+h1 {
+    color:gold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    background-color: rgb(136, 136, 185);
+    color:beige;
+}
+
+
+h3{
+    background-color:hotpink;
+    text-align: center;
+}
+
+
+hr{
+    line-color: yellow;
+    outline-style: 520px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
