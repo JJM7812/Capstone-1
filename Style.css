@@ -13,11 +13,17 @@ h1 {
 h2 {
   background-color: rgb(136, 136, 185);
   color: beige;
-  border: 2px solid white;
+  border: 2px solid black;
 }
 
 h3 {
-  background-color: rgb(136, 136, 185);
+  background-color:yellowgreen;
   text-align: center;
   border: 2px solid white;
+}
+.profile-photo {
+  border: 3px solid gold;
+  margin-left: 50px:
+  margin-right: 10px;
+  alignment: ="centred"
 }
