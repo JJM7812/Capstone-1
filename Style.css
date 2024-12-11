@@ -1,39 +1,31 @@
-
-*{
-    background-color:grey;
+* {
+  background-color: grey;
 }
 
 h1 {
-    color:gold;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: gold;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 2px solid white;
+  background-color:  rgb(136, 136, 185);
 }
 
-h2{
-    background-color: rgb(136, 136, 185);
-    color:beige;
+h2 {
+  background-color: rgb(136, 136, 185);
+  color: beige;
+  border: 2px solid white;
+}
+
+h3 {
+  background-color:rgb(136, 136, 185);
+  text-align: center;
+  border: 2px solid white;
+}
+
+hr {
+  line-color: yellow;
+  outline-style: 520px;
 }
 
 
-h3{
-    background-color:hotpink;
-    text-align: center;
 }
-
-
-hr{
-    line-color: yellow;
-    outline-style: 520px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
