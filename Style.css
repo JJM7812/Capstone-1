@@ -7,13 +7,13 @@ h1 {
   text-align: center;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   border: 2px solid white;
-  background-color: rgb(136, 136, 185);
+  background-color: rgb(166, 33, 6);
 }
 
 h2 {
   background-color: rgb(136, 136, 185);
   color: beige;
-  border: 2px solid black;
+  border: 2px solid white;
   
 }
 
@@ -25,9 +25,9 @@ h3 {
 }
 .profile-photo {
   border: 3px solid gold;
-  margin-left: 50px:
-  margin-right: 10px;
+  margin-left: 100px:
+  margin-right: 100px;
   alignment: ="centred"
-  margin: between 50
+  margin: between 200
   px;
 }
